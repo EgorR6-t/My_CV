@@ -4,5 +4,10 @@
 }
 
 .flex_container_of_image {
+    border: 6px solid #00ff95
+    size 50%;
+}
 
+.rectangle {
+    border: 6px solid #234569;
 }
